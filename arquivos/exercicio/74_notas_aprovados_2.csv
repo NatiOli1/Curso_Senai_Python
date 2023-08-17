@@ -1,0 +1,80 @@
+ALUNO,DISCIPLINA,NOTA_1,NOTA_2,Media,Reprovado
+Aluno1,POO,1,8,4.5,reprovado
+Aluno1,Lógica,9,0,4.5,reprovado
+Aluno1,Banco de dados,4,0,2.0,reprovado
+Aluno2,POO,1,0,0.5,reprovado
+Aluno2,Lógica,4,2,3.0,reprovado
+Aluno2,Banco de dados,6,1,3.5,reprovado
+Aluno3,POO,2,4,3.0,reprovado
+Aluno3,Lógica,2,6,4.0,reprovado
+Aluno3,Banco de dados,5,2,3.5,reprovado
+Aluno4,POO,1,2,1.5,reprovado
+Aluno4,Lógica,0,7,3.5,reprovado
+Aluno4,Banco de dados,0,5,2.5,reprovado
+Aluno5,POO,5,2,3.5,reprovado
+Aluno5,Lógica,1,1,1.0,reprovado
+Aluno5,Banco de dados,5,0,2.5,reprovado
+Aluno6,Banco de dados,2,6,4.0,reprovado
+Aluno7,POO,3,4,3.5,reprovado
+Aluno7,Lógica,2,5,3.5,reprovado
+Aluno8,POO,1,9,5.0,reprovado
+Aluno9,POO,0,1,0.5,reprovado
+Aluno9,Lógica,6,3,4.5,reprovado
+Aluno10,POO,0,4,2.0,reprovado
+Aluno10,Lógica,3,3,3.0,reprovado
+Aluno11,Lógica,0,2,1.0,reprovado
+Aluno11,Banco de dados,0,4,2.0,reprovado
+Aluno12,POO,0,9,4.5,reprovado
+Aluno13,Lógica,7,0,3.5,reprovado
+Aluno13,Banco de dados,0,7,3.5,reprovado
+Aluno14,Lógica,6,4,5.0,reprovado
+Aluno14,Banco de dados,1,1,1.0,reprovado
+Aluno15,Lógica,6,2,4.0,reprovado
+Aluno16,Banco de dados,2,0,1.0,reprovado
+Aluno17,POO,5,0,2.5,reprovado
+Aluno17,Lógica,8,0,4.0,reprovado
+Aluno17,Banco de dados,4,4,4.0,reprovado
+Aluno18,POO,0,6,3.0,reprovado
+Aluno18,Lógica,4,3,3.5,reprovado
+Aluno18,Banco de dados,6,0,3.0,reprovado
+Aluno19,POO,2,2,2.0,reprovado
+Aluno19,Lógica,4,2,3.0,reprovado
+Aluno19,Banco de dados,2,4,3.0,reprovado
+Aluno20,Banco de dados,0,5,2.5,reprovado
+Aluno21,POO,3,0,1.5,reprovado
+Aluno21,Lógica,1,6,3.5,reprovado
+Aluno21,Banco de dados,0,8,4.0,reprovado
+Aluno22,POO,0,3,1.5,reprovado
+Aluno22,Lógica,0,6,3.0,reprovado
+Aluno22,Banco de dados,6,3,4.5,reprovado
+Aluno23,POO,0,6,3.0,reprovado
+Aluno23,Lógica,6,4,5.0,reprovado
+Aluno23,Banco de dados,3,2,2.5,reprovado
+Aluno24,POO,0,4,2.0,reprovado
+Aluno24,Banco de dados,3,6,4.5,reprovado
+Aluno25,POO,0,2,1.0,reprovado
+Aluno25,Lógica,1,0,0.5,reprovado
+Aluno25,Banco de dados,3,7,5.0,reprovado
+Aluno26,POO,5,5,5.0,reprovado
+Aluno26,Lógica,6,2,4.0,reprovado
+Aluno27,POO,3,7,5.0,reprovado
+Aluno27,Lógica,3,0,1.5,reprovado
+Aluno27,Banco de dados,0,5,2.5,reprovado
+Aluno28,POO,5,1,3.0,reprovado
+Aluno28,Banco de dados,4,5,4.5,reprovado
+Aluno29,POO,1,0,0.5,reprovado
+Aluno29,Lógica,0,1,0.5,reprovado
+Aluno30,POO,0,6,3.0,reprovado
+Aluno30,Lógica,9,0,4.5,reprovado
+Aluno30,Banco de dados,7,0,3.5,reprovado
+Aluno31,POO,1,8,4.5,reprovado
+Aluno31,Lógica,5,1,3.0,reprovado
+Aluno31,Banco de dados,0,6,3.0,reprovado
+Aluno32,POO,1,7,4.0,reprovado
+Aluno32,Banco de dados,3,3,3.0,reprovado
+Aluno33,POO,2,1,1.5,reprovado
+Aluno33,Lógica,2,6,4.0,reprovado
+Aluno33,Banco de dados,0,6,3.0,reprovado
+Aluno34,POO,3,6,4.5,reprovado
+Aluno34,Lógica,1,9,5.0,reprovado
+Aluno34,Banco de dados,0,0,0.0,reprovado

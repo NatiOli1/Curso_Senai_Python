@@ -1,0 +1,18 @@
+cidade_saida = input("digite a cidade saída: ")
+cidade_destino = input("digite a cidade destino: ")
+distancia = input("digite a distância: ")
+media_km_Litro = input("digite  média de km/por litro do veículo: ")
+combustivel = input("digite o combustível utilizado: ")
+valor_combustivel = input("digite o valor do combustível: ")
+
+qtde_litros_necessaria = float(distancia) / float(media_km_Litro)
+custo = qtde_litros_necessaria * float(valor_combustivel)
+
+print("---Resumo da viagem---")
+print(f"Cidade saída {cidade_saida}")
+print(f"Cidade destino {cidade_destino}")
+print(f"distancia {distancia}")
+print(f"combustivel {combustivel}")
+print(f"valor_combustivel {valor_combustivel}")
+print(f"litros necessario {qtde_litros_necessaria}")
+print(f"custo {custo}")
